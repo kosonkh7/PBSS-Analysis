@@ -6,6 +6,8 @@
 **@Risk**: 통계 분포 추정 툴 <br>
 **Python(Pandas, Scipy)**: 탐색적 데이터 분석 및 시각화, 통계 검정 <br>
 
+[데이터 전처리 및 분석 과정 링크](https://github.com/kosonkh7/PBSS-Analysis/tree/main/EDA%20%26%20Data%20Visualization)
+
 ## 1. Business Understanding
 
 서울시 공공자전거 대여 시스템(Public bicycle Sharing System, PBSS) '따릉이'의 2022년 상반기 대여 건수는 약 1414만 건으로, <br>
