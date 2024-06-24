@@ -1,4 +1,4 @@
-# Addressing inventory imbalances in public bicycle rental systems 
+# Addressing Inventory Imbalances in Public Bicycle Sharing System 
 대기행렬이론 기반 컴퓨터 시뮬레이션을 활용한 공공자전거 대여 시스템 재고 불균형 해소 연구
 
 #### 분석 도구
